@@ -1,0 +1,11 @@
+# Python / Django ignore
+*.pyc
+__pycache__/
+*.sqlite3
+.env
+venv/
+.vscode/
+.idea/
+
+# Media uploads (optional - untrack user uploaded docs)
+media/user_documents/*
